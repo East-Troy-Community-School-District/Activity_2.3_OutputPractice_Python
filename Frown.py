@@ -1,7 +1,8 @@
 '''
 Frown
-12/14/2022
-Python I
+Pawelski
+9/17/2023
+Introduction to Computer Science
 '''
 
 import turtle
@@ -29,5 +30,8 @@ t.goto(50, 50)
 t.pendown()
 t.left(90)
 t.circle(50, 180)
+
 # this hides the turtle
 t.hideturtle()
+
+turtle.mainloop()
